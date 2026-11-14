@@ -31,8 +31,7 @@ Les projets sont classés **par type** puis **du plus abouti au plus récent** :
    actuelle et la première version développée sous Unity en C#.
 2. **Applications** (Nofon, Relevé Terrain QR) : des applications qui répondent à un besoin
    concret. Nofon est une application Android native en Kotlin avec un backend Supabase.
-   Relevé Terrain QR est un outil que j'ai créé pour le travail de mon père, technicien, et
-   qu'il utilise sur ses chantiers.
+   Relevé Terrain QR est un outil que j'ai créé pour le travail de mon père, qu'il utilise avec des clients.
 
 Chaque dossier contient son propre README qui détaille le projet, son architecture et la façon
 de le lancer.
